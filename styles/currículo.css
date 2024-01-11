@@ -1,0 +1,9 @@
+/* Curriculo */
+.apresentacao__conteudo__texto li a{
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+.apresentacao{
+    padding: 5% 0% 12% 15%;
+}
